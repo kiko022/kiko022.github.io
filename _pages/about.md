@@ -1,28 +1,31 @@
+---
 permalink: /
-title: "YiXiao Zhang | Data Science & Academic Portfolio"
+title: "YiXiao Zhang | Personal Academic & Professional Hub"
 author_profile: true
 ---
 
 ## About Me  
-I am an undergraduate student majoring in **Information Management & Information Systems** at Northeastern University (Sep.2022 – Jul.2026) with a GPA of 3.4686/5. My academic and professional focus lies in **data mining, prompt engineering, multi-agent systems, and intelligent algorithm optimization**—backed by hands-on experience in national-level research projects, 4 industry internships, and independent data science projects.  
+I am an undergraduate student majoring in **Information Management & Information Systems** at Northeastern University (Sep. 2022 – Jul. 2026) with a cumulative GPA of 3.4686/5. My academic focus lies in **data mining, prompt engineering, multi-agent systems, and intelligent algorithm optimization**, supported by hands-on experience in national research projects, 4 industry internships, and independent data science initiatives.  
 
-I have also enriched my global perspective through international programs: I earned a 4.5/4.5 GPA at Hanyang University International Summer School (2025) and a 4.25/4.5 GPA at its Winter School (2024-2025), and was awarded a full scholarship for the Estonian National Summer School (2025, selected from 500+ applicants).
-
-
-## Key Highlights  
-- **Research Experience**: Served as a Research Assistant in the National Natural Science Foundation of China Youth Fund Project, implementing balanced minimum sum-of-squares clustering algorithms in Java (optimized via tabu search and population algorithms to avoid local optima).  
-- **Industry Internships**: Gained practical experience across AI R&D (Chengdu Xiaoduo Tech), bioinformatics (Shenzhen Bairen Biotech), data algorithms (Migu Music), and human-computer interaction (Midea Group), with expertise in Python, Elasticsearch, Streamlit, Mem0, and StableDiffusion.  
-- **Data Science Project**: Led an independent project on "Bank Customer Product Subscription Prediction," using Pandas, scikit-learn, and LightGBM to achieve 89% prediction accuracy, supporting targeted marketing strategies.  
-- **Academic Achievements**: Won the **National First Prize** in the Business Elite Challenge Accounting and Business Case Competition (2024), and was named "Outstanding Camper" at Northeastern University’s Overseas Economic Management Scholars Seminar (2024).  
+I have also participated in international programs: Hanyang University International Winter/Summer School (GPA 4.25/4.5 & 4.5/4.5) and the Estonian National Summer School (full scholarship, €1,050, selected from 500+ applicants).
 
 
-## Quick Navigation  
-Explore detailed content about my background through the links below:  
-- [Education](/education/) – Academic experience, courses, and international programs  
-- [Research & Internships](/research-internships/) – Project details and on-the-job achievements  
-- [Projects](/portfolio/) – In-depth breakdown of the Bank Customer Subscription Prediction project  
-- [Honors & Certifications](/honors/) – Awards, scholarships, and academic recognitions  
-- [Skills](/skills/) – Technical capabilities in data analysis, development, and tools  
-- [Contact Me](/contact/) – Get in touch via email, LinkedIn, or GitHub  
+## Core Experience Highlights  
+### 1. Research  
+- **National Natural Science Foundation of China (Youth Fund Project)** (Jul. 2024 – Present): Research Assistant focusing on balanced minimum sum-of-squares clustering, implementing Java-based algorithms optimized via tabu search and population algorithms.  
 
-*Download my full CV [here](/files/CV.pdf).*
+### 2. Internships  
+- Midea Group (Shanghai): Algorithm Intern (HCI), developing Mem0-powered multi-agent systems with Streamlit.  
+- Migu Music: Data Algorithm Intern, optimizing prompts for LLMs and StableDiffusion.  
+- Shenzhen Bairen Biotech: Platform Development Intern, writing Python automation scripts for bioinformatics data.  
+
+### 3. Key Project  
+- **Bank Customer Product Subscription Prediction** (Jun. 2024 – Jul. 2024): Achieved 89% prediction accuracy using Pandas, scikit-learn, and LightGBM, supporting targeted marketing.
+
+
+## Download My Full CV  
+Access detailed education, skills, honors, and experience via my complete CV:  
+[Download CV (PDF)](/files/CV.pdf)  
+
+---
+*Note: Ensure the file `CV.pdf` is placed in the `files` folder of your GitHub repository for the download link to work.*
