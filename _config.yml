@@ -6,107 +6,107 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Basic Site Settings (基于CV修改核心信息)
+# Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # 保留默认主题，可选"air"
-title                    : "YiXiao Zhang | Data Science & Info Systems" # 姓名+核心领域
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "YiXiao Zhang" # 复用姓名，与CV一致
-description              : &description "Northeastern University Undergraduate (Info Management & Systems) | Research Assistant & AI Intern" # CV核心身份
-url                      : https://13558882230.github.io # CV中GitHub用户名对应的Pages地址
-baseurl                  : "" # 无二级路径，留空
-repository               : "13558882230/13558882230.github.io" # 你的GitHub仓库地址（用户名/仓库名）
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
 
-# Site Author (严格匹配CV信息，无关项注释)
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information (CV核心信息)
-  avatar           : "images/yixiao-avatar.jpg" # 头像路径（后续放入images文件夹）
-  name             : "YiXiao Zhang" # 与CV一致
-  # pronouns         : # CV无相关信息，注释
-  bio              : "Northeastern University undergrad (Info Management & Systems, 2022-2026) | Research Assistant (National Natural Science Foundation) | AI/ML Intern with experience in Prompt Engineering, Multi-Agent Systems" # CV核心背景提炼
-  location         : "China" # CV无明确城市，简化为国家
-  employer         : "Northeastern University (Undergraduate Student)" # 身份标注为本科生
-  # uri              : # CV无个人独立域名，注释
-  email            : "q18202429280@outlook.com" # CV中的邮箱
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
+  uri              : # URL
+  email            : "none@example.org" 
 
-  # Academic websites (CV无相关平台，全部注释)
-  # academia         : # URL
-  # arxiv            : # URL - Update with the correct link to your profile
-  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  # inspire-hep      : # URL
-  # impactstory      : # URL
-  # orcid            : "http://orcid.org/yourorcidurl"
-  # semantic         : # URL
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # researchgate     : # URL
-  # scopus           : # URL
+  # Academic websites
+  academia         : # URL
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  inspire-hep      : # URL
+  impactstory      : # URL
+  orcid            : "http://orcid.org/yourorcidurl"
+  semantic         : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+  scopus           : # URL
 
-  # Repositories and software development (仅保留GitHub，CV中存在)
-  # bitbucket        : # Username - Update with your username on the site
-  # codepen          : # Username
-  # dribbble         : # Username
-  github           : "13558882230" # CV中的GitHub用户名
-  # kaggle           : # Username  
-  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "academicpages"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # Social media (仅保留LinkedIn，CV中存在，其他注释)
-  # artstation       : # Username
-  # bluesky          : "bsky.app" # Replace this with you Bluesky username
-  # facebook         : # Username
-  # flickr           : # Username
-  # foursquare       : # Username
-  # goodreads        : # Username
-  # google_plus      : # Username
-  # keybase          : # Username
-  # instagram        : # Username
-  # lastfm           : # Username
-  linkedin         : "yixiao-zhang-2042ab2a3" # CV中LinkedIn链接后缀（linkedin.com/in/后内容）
-  # mastodon         : # URL
-  # medium           : # URL
-  # pinterest        : # Username
-  # soundcloud       : # Username
-  # steam            : # Username
-  # telegram         : # URL
-  # tumblr           : # Username
-  # twitter          : # Username for X / Twitter
-  # vine             : # Username
-  # weibo            : # Username
-  # wikipedia        : # Username
-  # xing             : # Username
-  # youtube          : # Username
-  # zhihu            : # Username
+  # Social media
+  artstation       : # Username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         : # Username
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : # Username for X / Twitter
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # Username
 
-# Publication Category (CV无正式出版物，全部注释)
-# publication_category:
-#   books:
-#     title: 'Books'
-#   manuscripts:
-#     title: 'Journal Articles'    
-#   conferences:
-#     title: 'Conference Papers'
+# Publication Category - The following the list of publication categories and their headings
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
 
-# Site Settings (默认配置，无需修改，talkmap_link保持false)
-teaser                   :  # 无预览图，留空
-breadcrumbs              : false # 关闭面包屑导航
+# Site Settings
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # 关闭"Read more"链接
-talkmap_link             : false      # CV无talks，保持关闭
-
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
-  provider               : false # 关闭评论功能，无需配置
-  # disqus:
-  #   shortname            :
-  # discourse:
-  #   server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  # facebook:
-  #   appid                :
-  #   num_posts            : # 5 (default)
-  #   colorscheme          : # "light" (default), "dark"
-
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus:
+    shortname            :
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages"
+  branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -119,50 +119,48 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601"
-
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # 保留RSS订阅
-  path                   : # 用默认路径feed.xml
+  hide                   : false     # change to true to hide the RSS feed in the footer
+  path                   : # blank (default) uses feed.xml
 
 
-# SEO Related (CV无相关配置，留空)
+# SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 
-# Social Sharing (基于CV社交链接配置)
+# Social Sharing
 twitter:
   username               : &twitter
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # 无社交分享图，留空
-og_description           : *description # 复用全局简介
+og_image                 :  # Social media default site image
+og_description           :  # Social media default site image description
 # For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : "Person" # 类型为个人
-  name                   : *name # 复用姓名
-  links: # 仅添加CV中存在的社交链接
-    - "https://linkedin.com/in/yixiao-zhang-2042ab2a3/"
-    - "https://github.com/13558882230"
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
 
-# Analytics (关闭统计，无需配置)
+# Analytics
 analytics:
-  provider               : "false"
-  # google:
-  #   tracking_id          :
+  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  google:
+    tracking_id          :
 
 
-# Reading Files (保留需加载的文件夹，与CV文件存放相关)
+# Reading Files
 include:
   - .htaccess
-  - _pages # 你的CV相关页面（教育、研究实习等）
-  - files # 存放CV.pdf的文件夹
+  - _pages
+  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -197,7 +195,7 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
-# Conversion (默认配置，无需修改)
+# Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
@@ -205,7 +203,7 @@ excerpt_separator: "\n\n"
 incremental: false
 
 
-# Markdown Processing (默认配置，无需修改)
+# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -217,25 +215,25 @@ kramdown:
   enable_coderay: false
 
 
-# These settings control the types of collections used by the template (仅保留与CV相关的portfolio)
+# These settings control the types of collections used by the template
 collections:
-  # teaching: # CV无教学经历，注释
-  #   output: true
-  #   permalink: /:collection/:path/
-  # publications: # CV无正式出版物，注释
-  #   output: true
-  #   permalink: /:collection/:path/
-  portfolio: # CV有项目经历（银行客户预测），保留
+  teaching:
     output: true
     permalink: /:collection/:path/
-  # talks: # CV无演讲经历，注释
-  #   output: true
-  #   permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
-# These settings control how pages and collections are included in the site (仅保留与CV相关的配置)
+# These settings control how pages and collections are included in the site
 defaults:
-  # _posts (CV无博客，保留默认但无需修改)
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -246,32 +244,32 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages (CV相关页面，保留)
+  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _teaching (已注释collection，对应配置也注释)
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # _publications (已注释collection，对应配置也注释)
-  # - scope:
-  #     path: ""
-  #     type: publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # _portfolio (CV项目页面，保留)
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
@@ -280,30 +278,30 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks (已注释collection，对应配置也注释)
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 
-# Sass/SCSS (默认配置，无需修改)
+# Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
-# Outputting (默认配置，无需修改)
+# Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins (默认插件，无需修改)
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -312,7 +310,7 @@ plugins:
   - jekyll-redirect-from
   - jemoji
 
-# Mimic GitHub Pages with --safe (默认白名单，无需修改)
+# Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
   - jekyll-gist
@@ -322,7 +320,16 @@ whitelist:
   - jemoji
 
 
-# Archives (默认配置，无需修改)
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
@@ -342,7 +349,8 @@ tag_archive:
 #     tag: /tags/:name/
 
 
-# HTML Compression (默认配置，无需修改)
+# HTML Compression
+# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
