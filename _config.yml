@@ -24,68 +24,68 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "YiXiao Zhang"
-  pronouns         : # example: "she/her"  
+  #pronouns         : # example: "she/her"  
   bio              : "Northeastern University undergrad (Info Management & Systems, 2022-2026) | Research Assistant (National Natural Science Foundation) | AI/ML Intern with experience in Prompt Engineering, Multi-Agent Systems"
   location         : "China,Chengdu"
   employer         : "Northeastern University"
-  uri              : # URL
+  #uri              : # URL
   email            : "q18202429280@outlook.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  #academia         : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #inspire-hep      : # URL
+  #impactstory      : # URL
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #semantic         : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
+  #scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  #bitbucket        : # Username - Update with your username on the site
+  #codepen          : # Username
+  #dribbble         : # Username
   github           : "kiko022"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  #kaggle           : # Username  
+  #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
+  #artstation       : # Username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #facebook         : # Username
+  #flickr           : # Username
+  #foursquare       : # Username
+  #goodreads        : # Username
+  #google_plus      : # Username
+  #keybase          : # Username
+  #instagram        : # Username
+  #lastfm           : # Username
   linkedin         : "yixiao-zhang-2042ab2a3"
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  #mastodon         : # URL
+  #medium           : # URL
+  #pinterest        : # Username
+  #soundcloud       : # Username
+  #steam            : # Username
+  #telegram         : # URL
+  #tumblr           : # Username
+  #twitter          : # Username for X / Twitter
+  #vine             : # Username
+  #weibo            : # Username
+  #wikipedia        : # Username
+  #xing             : # Username
+  #youtube          : # Username
+  #zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+# publication_category:
+#   books:
+#     title: 'Books'
+#   manuscripts:
+#     title: 'Journal Articles'    
+#   conferences:
+#     title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -146,7 +146,9 @@ og_description           :  # Social media default site image description
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+    - "https://linkedin.com/in/yixiao-zhang-2042ab2a3/"
+    - "https://github.com/13558882230"# An array of links to social media profiles
 
 
 # Analytics
@@ -217,18 +219,18 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -251,24 +253,24 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # # _teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # # _publications
+  # - scope:
+  #     path: ""
+  #     type: publications
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _portfolio
   - scope:
       path: ""
