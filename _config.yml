@@ -88,24 +88,6 @@ author:
 #     title: 'Conference Papers'
 
 
-# 在 _config.yml 中添加导航配置（确保页面能通过菜单访问）
-nav:
-  - title: Home          # 首页
-    url: /               # 对应 index.md 的 permalink: /
-  - title: Education     # 教育经历页
-    url: /education/     # 对应 _pages/education.md 的 permalink: /education/
-  - title: Research & Interns
-    url: /research-internships/  # 对应 _pages/research-internships.md 的 permalink
-  - title: Projects      # 项目页
-    url: /portfolio/     # 对应 _pages/portfolio.md 的 permalink（已在 collections 中配置）
-  - title: Honors        # 荣誉页
-    url: /honors/        # 对应 _pages/honors.md 的 permalink
-  - title: Skills        # 技能页
-    url: /skills/        # 对应 _pages/skills.md 的 permalink
-  - title: Contact       # 联系页
-    url: /contact/       # 对应 _pages/contact.md 的 permalink
-
-
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
