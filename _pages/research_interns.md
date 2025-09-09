@@ -6,7 +6,7 @@ layout: single
 ---
 
 ## Research Experience  
-### National Natural Science Foundation of China (Youth Fund Project)  
+### Northeastern University (Advisor: Qing Zhou)  
 **Role**: Research Assistant | **Duration**: Jul. 2024 – Present  
 **Focus Area**: Balanced Minimum Sum-of-Squares Clustering Problem (under the project "Research on Resource Scheduling in Cloud Data Centers for Complex Tasks")  
 
