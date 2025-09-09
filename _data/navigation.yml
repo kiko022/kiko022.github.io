@@ -8,19 +8,23 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: Home                # 首页（保留，对应 index.md）
-  url: /                     # 首页路径，和之前一致
-- title: About               # 关于页（保留，对应 _pages/about.md）
-  url: /about/               # 关于页路径，和之前一致
-- title: Education           # 新增：教育经历页
-  url: /education/           # 对应 _pages/education.md 的 permalink
-- title: Research & Interns  # 新增：研究&实习页
-  url: /research-internships/ # 对应 _pages/research-internships.md 的 permalink
-- title: Projects            # 保留：项目页（对应 _pages/portfolio.md）
-  url: /portfolio/           # 和你 portfolio 页面的 permalink 一致
-- title: Honors              # 新增：荣誉页
-  url: /honors/              # 对应 _pages/honors.md 的 permalink
-- title: Skills              # 新增：技能页
-  url: /skills/              # 对应 _pages/skills.md 的 permalink
-- title: Contact             # 新增：联系页
-  url: /contact/             # 对应 _pages/contact.md 的 permalink
+  - title: "Education"
+    url: /education/
+
+  - title: "Research & Interns"
+    url: /research_interns/    
+
+  - title: "Projects"
+    url: /projects/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Honors"
+    url: /honors/
+    
+  - title: "CV"
+    url: /cv/
+    
+  # - title: "CV"
+  #   url: /cv-json/
