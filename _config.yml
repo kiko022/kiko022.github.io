@@ -22,7 +22,7 @@ repository               : "kiko022/kiko022.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/IMG_1903.JPG"
   name             : "YiXiao Zhang"
   #pronouns         : # example: "she/her"  
   bio              : "Northeastern University undergrad (Info Management & Systems, 2022-2026) | Research Assistant (National Natural Science Foundation) | AI/ML Intern with experience in Prompt Engineering, Multi-Agent Systems"
