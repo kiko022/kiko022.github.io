@@ -5,27 +5,28 @@ author_profile: true
 ---
 
 ## About Me  
-I am an undergraduate student majoring in **Information Management & Information Systems** at Northeastern University (Sep. 2022 – Jul. 2026) with a cumulative GPA of 3.4686/5. My academic focus lies in **data mining, prompt engineering, multi-agent systems, and intelligent algorithm optimization**, supported by hands-on experience in national research projects, 4 industry internships, and independent data science initiatives.  
-
-I have also participated in international programs: Hanyang University International Winter/Summer School (GPA 4.25/4.5 & 4.5/4.5) and the Estonian National Summer School (full scholarship, €1,050, selected from 500+ applicants).
+I am an undergraduate student majoring in **Information Management & Information Systems** at Northeastern University (Sep. 2022 – Jul. 2026) with a cumulative GPA of 3.4686/5. I have hands-on experience in national research projects, 4 industry internships, and independent data science initiatives, with a focus on translating technical expertise into practical solutions.
 
 
-## Core Experience Highlights  
-### 1. Research  
-- **National Natural Science Foundation of China (Youth Fund Project)** (Jul. 2024 – Present): Research Assistant focusing on balanced minimum sum-of-squares clustering, implementing Java-based algorithms optimized via tabu search and population algorithms.  
-
-### 2. Internships  
-- Midea Group (Shanghai): Algorithm Intern (HCI), developing Mem0-powered multi-agent systems with Streamlit.  
-- Migu Music: Data Algorithm Intern, optimizing prompts for LLMs and StableDiffusion.  
-- Shenzhen Bairen Biotech: Platform Development Intern, writing Python automation scripts for bioinformatics data.  
-
-### 3. Key Project  
-- **Bank Customer Product Subscription Prediction** (Jun. 2024 – Jul. 2024): Achieved 89% prediction accuracy using Pandas, scikit-learn, and LightGBM, supporting targeted marketing.
+## Core Research Focus  
+My academic and technical focus centers on:  
+- **Intelligent Algorithm Optimization**: Balanced minimum sum-of-squares clustering, K-means improvement, tabu search, and population algorithm integration;  
+- **AI & Data Science**: Data mining, prompt engineering, multi-agent systems, and retrieval-augmented generation (RAG);  
+- **Practical Application**: Applying algorithms to cloud data center resource scheduling, bioinformatics, and user behavior prediction scenarios.
 
 
-## Download My Full CV  
-Access detailed education, skills, honors, and experience via my complete CV:  
+## Key Skills  
+### Technical Skills  
+- **Data Analysis & Visualization**: Proficient in Python (Pandas, scikit-learn), R; skilled in Tableau, Streamlit for interactive visualizations;  
+- **Programming & Development**: Java (algorithm implementation), Python (automation, agent development), SQL (data querying);  
+- **Database & Tools**: MySQL (relational databases), Elasticsearch (vector databases); Git, Docker, Linux, Jupyter Notebook;  
+- **Full-Stack Basics**: Backend (Flask), Frontend (Angular, HTML/CSS/JavaScript).
+
+### Language Proficiency  
+- English: CET-6 (fluent in academic reading and technical documentation);  
+- Mandarin: Level 2-B (standard for formal communication).
+
+
+## Access Full Documentation  
+For detailed records of my education, internships, projects, and honors, download my complete CV:  
 [Download CV (PDF)](/files/CV.pdf)  
-
----
-*Note: Ensure the file `CV.pdf` is placed in the `files` folder of your GitHub repository for the download link to work.*
