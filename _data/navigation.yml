@@ -14,15 +14,14 @@ main:
   - title: "Research & Interns"
     url: /research_interns/    
 
-  - title: "Projects"
-    url: /projects/    
+  # - title: "Projects"
+  #   url: /projects/    
+  - title: "Honors"
+    url: /honors/ 
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Honors"
-    url: /honors/
-    
   # - title: "CV"
   #   url: /cv/
     
