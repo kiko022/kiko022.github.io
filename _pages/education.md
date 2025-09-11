@@ -20,11 +20,12 @@ layout: single
 ### 2. International Programs & Summer Schools
 - **Hanyang University International Winter School** (Dec 2024 – Jan 2025)  
   Credits: 4 | GPA: 4.25/4.5  
-   [查看成绩证书](/files/certificate/2024 HIWS Transcript_601.pdf)  
+   [Transcript](/files/certificate/2024 HIWS Transcript_601.pdf)   [certificate](/files/certificate/20250122153249174.pdf) 
   
 - **Hanyang University International Summer School** (Jun 2025 – Aug 2025)  
   Credits: 4 | GPA: 4.5/4.5  
-  Relevant Courses: Global Entrepreneurship_Launch your startup (99.38/100), Korean for Beginners (100/100)  
+   [Transcript](/files/certificate/2025 HISS_Online_186.pdf)   [certificate](/files/certificate/20250814164102509.pdf) 
+
 - **Zhejiang University – 11th International Graduate Summer School of ZIERIP** (Jun 2025 – Jul 2025)  
   Credits: 3  
 - **Shanghai Jiao Tong University – SDG Summer Camp: Ocean Sustainability** (Jun 2025 – Jul 2025)  
