@@ -42,6 +42,10 @@ layout: single
 - **East China Normal University – National Summer School on Aquatic Biology & Hydroecology** (Aug 2025)  
    [certificate](/files/certificate/18202429280_ZYX.pdf)
 
+- **University of Oxford – Digital Humanities @ Oxford  Online Summer School 2025(AI in Research Libraries)** (Aug 2025)  
+   [certificate](/files/certificate/YiXiao Zhang_DHOxSS 2025 Attendance Certificate_03.09.25.pdf)
+
+
 ## 3. Honors & Awards
 - **Business Elite Challenge Accounting and Business Case Competition**  
   Recognition: National First Prize | Issuing Body: National Organizing Committee | Date: Jun 2024
