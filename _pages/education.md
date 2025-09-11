@@ -20,7 +20,8 @@ layout: single
 ### 2. International Programs & Summer Schools
 - **Hanyang University International Winter School** (Dec 2024 – Jan 2025)  
   Credits: 4 | GPA: 4.25/4.5  
-  Relevant Courses: Revolutions in Science and Technology (95/100), Modern Society & Marketing (90.75/100)  
+   [查看成绩证书](/files/certificate/2024 HIWS Transcript_601.pdf)  
+  
 - **Hanyang University International Summer School** (Jun 2025 – Aug 2025)  
   Credits: 4 | GPA: 4.5/4.5  
   Relevant Courses: Global Entrepreneurship_Launch your startup (99.38/100), Korean for Beginners (100/100)  
