@@ -82,6 +82,13 @@ layout: single
 - **Columbia+ – Machine Learning I** (Jun 30, 2025)
   [Certificate](/files/certificate/ytt0smfv_1751266824076.pdf)
 
+- **APYC Asia-Pacific Youth Conservation – Youth SDGs Cognitive Construction and Action Empowerment Workshop** (Jun 2025)
+  [Certificate](/files/certificate/ZHANGYixiao (1).pdf)
+  
+- **APYC Asia-Pacific Youth Conservation – Intercultural Communication from an Anthropological Perspective: Youth Capacity Building Workshop** (Mar 2025)
+  [Certificate](/files/certificate/ZHANGYixiao.pdf)  
+
+
 ## Access Full Documentation
 - [Download Complete CV (PDF)](/files/CV.pdf) – Detailed records of education, projects, and experiences  
 - [Download Portfolio (PDF)](/files/portfolio.pdf) – Visual summaries of technical work
