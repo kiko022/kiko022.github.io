@@ -50,7 +50,7 @@ layout: single
   [certificate](/files/certificate/thumbnail_结业证书--算法安全--张一枭.png)
 
 - **Sun Yat-sen University – Air-Space-Ground-Sea Intelligent Sensing Technology Summer School** (Aug 23 – Aug 24, 2025)
-  [certificate](/files/certificates/张一枭.jpg)
+  [certificate](/files/certificate/张一枭.jpg)
 
 
 ## 3. Honors & Awards
