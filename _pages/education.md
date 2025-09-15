@@ -20,31 +20,31 @@ layout: single
 ### 2. International Programs & Summer Schools
 - **Hanyang University International Winter School** (Dec 2024 – Jan 2025)  
   Credits: 4 | GPA: 4.25/4.5  
-   [Transcript](/files/certificate/2024 HIWS Transcript_601.pdf)   [certificate](/files/certificate/20250122153249174.pdf) 
+  [Transcript](/files/certificate/2024 HIWS Transcript_601.pdf)   [certificate](/files/certificate/20250122153249174.pdf) 
   
 - **Hanyang University International Summer School** (Jun 2025 – Aug 2025)  
   Credits: 4 | GPA: 4.5/4.5  
-   [Transcript](/files/certificate/2025 HISS_Online_186.pdf)   [certificate](/files/certificate/20250814164102509.pdf) 
+  [Transcript](/files/certificate/2025 HISS_Online_186.pdf)   [certificate](/files/certificate/20250814164102509.pdf) 
 
 - **Zhejiang University – 11th International Graduate Summer School of ZIERIP** (Jun 2025 – Jul 2025)  Credits: 3 
-   [certificate](/files/certificate/4_certificate_q13558882230@outlook.com_1756454036468_1.pdf)
+  [certificate](/files/certificate/4_certificate_q13558882230@outlook.com_1756454036468_1.pdf)
    
 - **Shanghai Jiao Tong University – SDG Summer Camp: Ocean Sustainability** (Jun 2025 – Jul 2025)  Credits: 2
     
 - **University of Maryland – AI and Career Empowerment** (Jun 2025)
-   [certificate](/files/certificate/ai-and-career-empowerment-yixiao-zhang.pdf)
+  [certificate](/files/certificate/ai-and-career-empowerment-yixiao-zhang.pdf)
   
 - **University of Chinese Academy of Sciences – AI & Humanistic Economics Summer School** (Jul 2025)
-   [certificate](/files/certificate/18202429280_ZYX.pdf)
+  [certificate](/files/certificate/18202429280_ZYX.pdf)
   
 - **Hertie School (Berlin) – Data Science Summer School** (Aug 2025)
-   [certificate](/files/certificate/DS3_Certificate.png)
+  [certificate](/files/certificate/DS3_Certificate.png)
 
 - **East China Normal University – National Summer School on Aquatic Biology & Hydroecology** (Aug 2025)  
-   [certificate](/files/certificate/张一枭-结业证书.pdf)
+  [certificate](/files/certificate/张一枭-结业证书.pdf)
 
 - **University of Oxford – Digital Humanities @ Oxford  Online Summer School 2025(AI in Research Libraries)** (Aug 2025)  
-   [certificate](/files/certificate/YiXiao Zhang_DHOxSS 2025 Attendance Certificate_03.09.25.pdf)
+  [certificate](/files/certificate/YiXiao Zhang_DHOxSS 2025 Attendance Certificate_03.09.25.pdf)
 
 - **State Key Laboratory of AI Safety (CAS Institute of Computing Technology) – LLM Safety Assessment & Enhancement Summer School** (Aug 10, 2025)
   [certificate](/files/certificate/thumbnail_结业证书--算法安全--张一枭.png)
@@ -52,6 +52,14 @@ layout: single
 - **Sun Yat-sen University – Air-Space-Ground-Sea Intelligent Sensing Technology Summer School** (Aug 23 – Aug 24, 2025)
   [certificate](/files/certificate/张一枭.jpg)
 
+- **SustainMV 2025 – Online** (Aug 19 – Aug 21, 2025)   
+  [certificate](/files/certificate/Certificate_YiXiaoZhang.pdf)
+
+- **WIPO – China (SYSU) Summer School on Intellectual Property** (Jul 15 – Jul 29, 2025)  
+  [certificate](/files/certificate/wipo-sysu-ip-2025.pdf)
+
+- **Oxford-Bloomsbury Fantasy Summer School 2025** (Aug 10 – Aug 12, 2025)
+- [certificate](/files/certificate/wipo-sysu-ip-2025.pdf)
 
 ## 3. Honors & Awards
 - **Business Elite Challenge Accounting and Business Case Competition**  
