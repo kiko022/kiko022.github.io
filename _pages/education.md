@@ -30,6 +30,7 @@ layout: single
   [certificate](/files/certificate/4_certificate_q13558882230@outlook.com_1756454036468_1.pdf)
    
 - **Shanghai Jiao Tong University – SDG Summer Camp: Ocean Sustainability** (Jun 2025 – Jul 2025)  Credits: 2
+  [certificate](/files/certificate/27b2c7de1205ad968fb3a0f6716cac9af3c0221c936909f81c9a1eee3dfc134e.png)
     
 - **University of Maryland – AI and Career Empowerment** (Jun 2025)
   [certificate](/files/certificate/ai-and-career-empowerment-yixiao-zhang.pdf)
@@ -58,8 +59,6 @@ layout: single
 - **WIPO – China (SYSU) Summer School on Intellectual Property** (Jul 15 – Jul 29, 2025)  
   [certificate](/files/certificate/wipo-sysu-ip-2025.pdf)
 
-- **Oxford-Bloomsbury Fantasy Summer School 2025** (Aug 10 – Aug 12, 2025)
-- [certificate](/files/certificate/wipo-sysu-ip-2025.pdf)
 
 ## 3. Honors & Awards
 - **Business Elite Challenge Accounting and Business Case Competition**  
