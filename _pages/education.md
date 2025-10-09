@@ -30,6 +30,7 @@ layout: single
   [certificate](/files/certificate/4_certificate_q13558882230@outlook.com_1756454036468_1.pdf)
    
 - **Shanghai Jiao Tong University – SDG Summer Camp: Ocean Sustainability** (Jun 23 – Jul 18, 2025)  Credits: 2
+  [Transcript](/files/certificate/YiXiao Zhang.pdf)
   [certificate](/files/certificate/27b2c7de1205ad968fb3a0f6716cac9af3c0221c936909f81c9a1eee3dfc134e.png)
     
 - **University of Maryland – AI and Career Empowerment** (Jun 30 2025)
