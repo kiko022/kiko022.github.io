@@ -30,24 +30,28 @@ layout: single
   [certificate](/files/certificate/4_certificate_q13558882230@outlook.com_1756454036468_1.pdf)
   [web](https://sdg-gss.zju.edu.cn/Intelligenttechnologypromotessustainabledevelopment/main.psp)
    
-- **Shanghai Jiao Tong University – SDG Summer Camp: Ocean Sustainability in a Changing Climate** (Jun 23 – Jul 18, 2025)  Credits: 2  Teaching hours:32  https://global.sjtu.edu.cn/page/sub/471
+- **Shanghai Jiao Tong University – SDG Summer Camp: Ocean Sustainability in a Changing Climate** (Jun 23 – Jul 18, 2025)  Credits: 2  Teaching hours:32  
   [Transcript](/files/certificate/YiXiao Zhang.pdf)
   [certificate](/files/certificate/27b2c7de1205ad968fb3a0f6716cac9af3c0221c936909f81c9a1eee3dfc134e.png)
+  [web](https://global.sjtu.edu.cn/page/sub/471)
     
-- **University of Maryland – AI and Career Empowerment** (Jun 30 2025)  Teaching hours:25  https://www.rhsmith.umd.edu/programs/executive-education/learning-opportunities-individuals/free-online-certificate-artificial-intelligence-and-career-empowerment
+- **University of Maryland – AI and Career Empowerment** (Jun 30 2025)  Teaching hours:25  
   [certificate](/files/certificate/ai-and-career-empowerment-yixiao-zhang.pdf)
+  [web](https://www.rhsmith.umd.edu/programs/executive-education/learning-opportunities-individuals/free-online-certificate-artificial-intelligence-and-career-empowerment)
   
 - **University of Chinese Academy of Sciences – AI & Humanistic Economics Summer School** (Jul 9 – Jul 11, 2025)  Teaching hours:18
   [certificate](/files/certificate/18202429280_ZYX.pdf)
   
-- **Hertie School (Berlin) – Data Science Summer School** (Aug 4 - Aug 8, 2025) Teaching hours:16  https://ds3.ai/#about
-  [certificate](/files/certificate/DS3_Certificate.png)   
+- **Hertie School (Berlin) – Data Science Summer School** (Aug 4 - Aug 8, 2025) Teaching hours:16  
+  [certificate](/files/certificate/DS3_Certificate.png)
+  [web](https://ds3.ai/#about)
 
 - **East China Normal University – National Summer School on Aquatic Biology & Hydroecology** (Aug 8 2025)  Teaching hours:49
   [certificate](/files/certificate/张一枭-结业证书.pdf)
 
-- **University of Oxford – Digital Humanities @ Oxford  Online Summer School 2025(AI in Research Libraries)** (Sep 3 2025)   Teaching hours:27.5 https://web.cvent.com/event/ac17dbdc-bf37-4057-adad-fab0de9a4577/summary
+- **University of Oxford – Digital Humanities @ Oxford  Online Summer School 2025(AI in Research Libraries)** (Sep 3 2025)   Teaching hours:27.5 
   [certificate](/files/certificate/YiXiao Zhang_DHOxSS 2025 Attendance Certificate_03.09.25.pdf)
+  [web](https://web.cvent.com/event/ac17dbdc-bf37-4057-adad-fab0de9a4577/summary)
 
 - **State Key Laboratory of AI Safety (CAS Institute of Computing Technology) – LLM Safety Assessment & Enhancement Summer School** (Aug 10, 2025) Teaching hours:10
   [certificate](/files/certificate/thumbnail_结业证书--算法安全--张一枭.png)
@@ -55,8 +59,9 @@ layout: single
 - **Sun Yat-sen University – Air-Space-Ground-Sea Intelligent Sensing Technology Summer School** (Aug 23 – Aug 24, 2025) Teaching hours:16
   [certificate](/files/certificate/张一枭.jpg)
 
-- **SustainMV 2025 – Online-University of Rostock/University of Applied Sciences Stralsund/University of Greifswald/University of Applied Sciences Neubrandenburg/University of Applied Sciences, Technology, Business and Design Wismar/University of Music and Drama Rostock -** (Aug 19 – Aug 21, 2025)  Teaching hours:21   https://sustainmv.de/
+- **SustainMV 2025 – Online-University of Rostock/University of Applied Sciences Stralsund/University of Greifswald/University of Applied Sciences Neubrandenburg/University of Applied Sciences, Technology, Business and Design Wismar/University of Music and Drama Rostock -** (Aug 19 – Aug 21, 2025)  Teaching hours:21   
   [certificate](/files/certificate/Certificate_YiXiaoZhang.pdf)
+  [web](https://sustainmv.de/)
 
 - **WIPO – China (SYSU) Summer School on Intellectual Property** (Jul 15 – Jul 29, 2025)  
   [certificate](/files/certificate/wipo-sysu-ip-2025.pdf)
