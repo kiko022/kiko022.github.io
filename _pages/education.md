@@ -26,8 +26,9 @@ layout: single
   Credits: 4 | GPA: 4.5/4.5  
   [Transcript](/files/certificate/2025 HISS_Online_186.pdf)   [certificate](/files/certificate/20250814164102509.pdf) 
 
-- **Zhejiang University – 11th International Graduate Summer School of ZIERIP** (Jun 24 – Jul 6, 2025)  Credits: 3  Teaching hours:104   https://sdg-gss.zju.edu.cn/Intelligenttechnologypromotessustainabledevelopment/main.psp
+- **Zhejiang University – 11th International Graduate Summer School of ZIERIP** (Jun 24 – Jul 6, 2025)  Credits: 3  Teaching hours:104   
   [certificate](/files/certificate/4_certificate_q13558882230@outlook.com_1756454036468_1.pdf)
+  [web](https://sdg-gss.zju.edu.cn/Intelligenttechnologypromotessustainabledevelopment/main.psp)
    
 - **Shanghai Jiao Tong University – SDG Summer Camp: Ocean Sustainability in a Changing Climate** (Jun 23 – Jul 18, 2025)  Credits: 2  Teaching hours:32  https://global.sjtu.edu.cn/page/sub/471
   [Transcript](/files/certificate/YiXiao Zhang.pdf)
