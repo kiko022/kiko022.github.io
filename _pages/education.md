@@ -84,17 +84,22 @@ layout: single
 
 
 ## 4. Online Course
-- **Columbia+ – Introduction to Deep RL from a Robotics Perspective** (Jun 30, 2025)
+- **Columbia+ – Introduction to Deep RL from a Robotics Perspective** (Jun 30, 2025) Teaching hours:63
   [Certificate](/files/certificate/j4iv5g5y_1751263184922.pdf)
+  [web](https://plus.columbia.edu/content/introduction-deep-rl-robotics-perspective)
 
-- **Columbia+ – Learning AI Through Visualization** (May 19, 2025)
+- **Columbia+ – Learning AI Through Visualization** (May 19, 2025) Teaching hours:36
   [Certificate](/files/certificate/kux39nif_1747643142796.pdf)
+  [web](https://plus.columbia.edu/content/learning-ai-through-visualization)
 
-- **Columbia+ – Foundations of Behavioral Science** (May 19, 2025)
+- **Columbia+ – Foundations of Behavioral Science** (May 19, 2025) Teaching hours:15
   [Certificate](/files/certificate/rbnseb0c_1747646644965.pdf)
+  [web](https://plus.columbia.edu/content/foundations-behavioral-science)
 
-- **Columbia+ – Machine Learning I** (Jun 30, 2025)
+- **Columbia+ – Machine Learning I** (Jun 30, 2025) Teaching hours:15 Teaching hours:30
   [Certificate](/files/certificate/ytt0smfv_1751266824076.pdf)
+  [web](https://plus.columbia.edu/content/machine-learning-i)
+  
 
 - **APYC Asia-Pacific Youth Conservation – Youth SDGs Cognitive Construction and Action Empowerment Workshop** (Jun 2025)
   [Certificate](/files/certificate/ZHANGYixiao (1).pdf)
