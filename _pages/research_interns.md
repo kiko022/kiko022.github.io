@@ -17,7 +17,7 @@ layout: single
 
 
 ## Internship Experience  
-### 1. Midea Group (Shanghai) | Algorithm Intern (Human-Computer Interaction)  
+### 1. Midea Group (Shanghai) | Algorithm Intern (Human-Computer Interaction)   Midea_Midea Group_Professional Platform_AI Research Institute_AI Algorithms_Human-Computer Interaction
 **Duration**: Jul. 2025 – Present | **Tech Stack**: Python, Streamlit, Mem0, Multi-Agent Systems, Prompt Engineering  
 **Responsibilities & Achievements**:  
 - Developed a Master Agent system using the Streamlit framework to coordinate multiple sub-agents (data analysis/device control);  
@@ -43,7 +43,7 @@ layout: single
 - Wrote gpt4o-based prompts focused on bioinformatics to extract key information from source code or manuscripts and output it in JSON format.  
 
 
-### 4. Chengdu Xiaoduo Technology Co., Ltd. | R&D Intern (Prompt Engineer)  
+### 4. Chengdu Xiaoduo Technology Co., Ltd. | R&D Intern (Prompt Engineer)  Digital Experience Innovation Team
 **Duration**: Jul. 2024 – Sep. 2024 | **Tech Stack**: Python, Elasticsearch, Streamlit, RAG Framework  
 **Responsibilities & Achievements**:  
 - Built a routing-style intelligent Agent based on the RAG framework: used large language models to rewrite and classify user queries, and routed them to four workflows (knowledge base Q&A, product Q&A, product recommendation, product comparison);  
