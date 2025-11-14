@@ -59,7 +59,7 @@ layout: single
 - **Sun Yat-sen University – Air-Space-Ground-Sea Intelligent Sensing Technology Summer School** (Aug 23 – Aug 24, 2025) Teaching hours:16
   [certificate](/files/certificate/张一枭.jpg)
 
-- **SustainMV 2025 – Online-University of Rostock/University of Applied Sciences Stralsund/University of Greifswald/University of Applied Sciences Neubrandenburg/University of Applied Sciences, Technology, Business and Design Wismar/University of Music and Drama Rostock -** (Aug 19 – Aug 21, 2025)  Teaching hours:21   
+- **SustainMV 2025 – University of Rostock/University of Applied Sciences Stralsund/University of Greifswald/University of Applied Sciences Neubrandenburg/University of Applied Sciences, Technology, Business and Design Wismar/University of Music and Drama Rostock -** (Aug 19 – Aug 21, 2025)  Teaching hours:21   
   [certificate](/files/certificate/Certificate_YiXiaoZhang.pdf)
   [web](https://sustainmv.de/)
 
@@ -68,18 +68,18 @@ layout: single
 
 
 ## 3. Honors & Awards
-- **Business Elite Challenge Accounting and Business Case Competition**  
+- **Business Elite Challenge Accounting and Business Case Competition**(16/06/2025)  
   Recognition: National First Prize | Issuing Body: National Organizing Committee | Date: Jun 2024
   
-- **Northeastern University 11th Overseas Economic Management Scholars Seminar**  
+- **Northeastern University 11th Overseas Economic Management Scholars Seminar**(19/07/2025)  
   Recognition: Outstanding Camper | Issuing Body: Northeastern University | Date: Jul 2024
    
-- **Estonian National Summer School Full Scholarship** (2025)  
+- **Estonian National Summer School Full Scholarship** (05/06/2025)  
   Award: €1,050 | Issuing Body: Estonian Education and Youth Board | Selection: 17 out of 500+ applicants
   [certificate](/files/certificate/Estonian national summer school scholarship 2025.pdf)
 
-- **Bucharest Summer University Partial Scholarship** (2025)  
-  Issuing Body: Bucharest Summer University | Selection: Selected from 750+ participants  
+- **Bucharest Summer University Partial Scholarship** (22/04/2025)  
+  Issuing Body: Bucharest University of Economic Studies (ASE) | Selection: Selected from 750+ participants  
   [certificate](/files/certificate/BSU 2025 ACCEPTANCE-PP.pdf)
 
 
