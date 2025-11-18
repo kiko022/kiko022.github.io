@@ -63,7 +63,7 @@ layout: single
   [certificate](/files/certificate/Certificate_YiXiaoZhang.pdf)
   [web](https://sustainmv.de/)
 
-- **WIPO – China (SYSU) Summer School on Intellectual Property** (Jul 15 – Jul 29, 2025)  
+- **WIPO – China (SYSU) Summer School on Intellectual Property** (Jul 18 – Jul 29, 2025)  
   [certificate](/files/certificate/DLWSSCN25SYS.pdf)
 
 
