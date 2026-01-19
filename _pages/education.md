@@ -118,5 +118,5 @@ layout: single
 - [Download Europass CV (PDF)](/files/Europass.pdf) – Europass format CV
 - [Download Academic Transcript (PDF)](/files/Transcript.pdf) – Complete academic records with GPA conversion statement
 - [Download Portfolio (PDF)](/files/portfolio.pdf) – Visual summaries of technical work
-- [Download Course Descriptions (PDF)](/files/Course_Descriptions.pdf) – Detailed course content and learning outcomes
+- [Download Course Descriptions (PDF)](/files/课程描述.pdf) – Detailed course content and learning outcomes
 
