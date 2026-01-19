@@ -9,11 +9,17 @@ layout: single
 ### Northeastern University
 **Major**: Information Management & Information Systems  
 **Duration**: Sep 2022 – Jul 2026  
-**GPA**: 3.4686/5  
+**GPA**: 3.4976/5 (85/100) | Credits: 261 ECTS 
 **Relevant Courses**:  
+- Computer Networks (92/100)
+- Information System and Website Development Practice (95/100)
+- Social Media and Social Network (95/100)
+- Cryptography and Computer Security (93/100)
 - An Introduction to Database System (92/100)  
-- Business Data Analysis (Excel, Tableau, Matlab) (91/100)  
-- Business Data Analysis (R, Python, Spark) (92/100)  
+- Business data analysis on Excel, Tableau and Matlab (91/100)
+- Information resource organization and management (91/100)
+- Big data and Internet plus (92/100) 
+- Business Big Data Analysis and Application (92/100)  
 - Probability and Mathematical Statistics (92/100)  
 
 
@@ -109,5 +115,6 @@ layout: single
 
 
 ## Access Full Documentation
-- [Download Complete CV (PDF)](/files/CV.pdf) – Detailed records of education, projects, and experiences  
+- [Download Standard CV (PDF)](/files/CV.pdf) – Standard CV
+- [Download Europass CV (PDF)](/files/Europaa.pdf) – Europass format CV 
 - [Download Portfolio (PDF)](/files/portfolio.pdf) – Visual summaries of technical work
