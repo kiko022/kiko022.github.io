@@ -82,7 +82,7 @@ encoder re‑ranker and rule‑based filters, achieving +18% top 5 recall and �
 feedback cycle time through faster stakeholder reviews.
 
 
-### Quick Access   
+### Access Full Documentation   
 - [Download Standard CV (PDF)](/files/CV.pdf) – Standard CV
 - [Download Europass CV (PDF)](/files/Europass.pdf) – Europass format CV
 - [Download Academic Transcript (PDF)](/files/Transcript.pdf) – Complete academic records with GPA conversion statement
