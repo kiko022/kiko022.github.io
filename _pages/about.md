@@ -5,28 +5,29 @@ author_profile: true
 ---
 
 ## About Me  
-I am an undergraduate student majoring in **Information Management & Information Systems** at Northeastern University (Sep. 2022 – Jul. 2026) with a cumulative GPA of 3.4686/5. I have hands-on experience in national research projects, 4 industry internships, and independent data science initiatives, with a focus on translating technical expertise into practical solutions.
+I am an undergraduate student majoring in Information Management & Information Systems at Northeastern University (Sep. 2022 – Jul. 2026, Expected Graduation) with a cumulative GPA of 3.4976/5 (85/100). I have hands-on experience in national research projects (NSFC Youth Fund), 6 industry internships (including Fortune Global 500 Midea Group), and independent technical initiatives, focusing on translating expertise in generative AI, algorithm optimization, and data engineering into scalable, practical solutions.
 
 
 ## Core Research Focus  
 My academic and technical focus centers on:  
-- **Intelligent Algorithm Optimization**: Balanced minimum sum-of-squares clustering, K-means improvement, tabu search, and population algorithm integration;  
-- **AI & Data Science**: Data mining, prompt engineering, multi-agent systems, and retrieval-augmented generation (RAG);  
-- **Practical Application**: Applying algorithms to cloud data center resource scheduling, bioinformatics, and user behavior prediction scenarios.
+- **Generative AI & LLM Applications**: Prompt engineering, retrieval-augmented generation (RAG), multi-turn chat agents, memory systems (Mem0), and LoRA-based model fine-tuning (Qwen 8B);
+- **Intelligent Algorithm Optimization**: Balanced minimum sum-of-squares clustering (MSSC), tabu search integration, population diversification mechanisms, and K-means improvement;
+- **Data Science & Engineering**: End-to-end modeling pipelines, hybrid retrieval (BM25 + HNSW), data preprocessing, and large-scale dataset curation;
+- **Practical Application**: Applying technologies to smart home AI, customer service RAG systems, bioinformatics pipeline automation, and financial product subscription prediction.
 
 
 ## Key Skills  
 ### Technical Skills  
-- **Data Analysis & Visualization**: Proficient in Python (Pandas, scikit-learn), R; skilled in Tableau, Streamlit for interactive visualizations;  
-- **Programming & Development**: Java (algorithm implementation), Python (automation, agent development), SQL (data querying);  
-- **Database & Tools**: MySQL (relational databases), Elasticsearch (vector databases); Git, Docker, Linux, Jupyter Notebook;  
-- **Full-Stack Basics**: Backend (Flask), Frontend (Angular, HTML/CSS/JavaScript).
-
-### Language Proficiency  
-- English: CET-6 (fluent in academic reading and technical documentation);  
-- Mandarin: Level 2-B (standard for formal communication).
+- **Data Analysis & Machine Learning**: Proficient in Python (Pandas, NumPy, scikit-learn, LightGBM/XGBoost) for feature engineering, modeling, and evaluation; skilled in R for statistical analysis;
+- **Generative AI & Agents**: Expertise in prompt orchestration, RAG pipeline development, LLM safety assessment, Stable Diffusion (text-to-image/video), and multi-agent memory architecture;
+- **Programming & Development**: Java (algorithm implementation, OOP), Python (automation, agent development, Streamlit demos), SQL (data querying & optimization);
+- **Database & Infrastructure**: MySQL (relational databases), Elasticsearch (hybrid retrieval), Redis (vector store, chat history management); Git, Docker, Linux, Jupyter Notebook;
+- **Full-Stack & Visualization**: Backend (Flask, SQLAlchemy), Frontend (Angular), Tableau for data visualization, and performance tuning for concurrent systems.
 
 
 ## Access Full Documentation  
-For detailed records of my education, internships, projects, and honors, download my complete CV:  
-[Download CV (PDF)](/files/CV.pdf)  
+- [Download Standard CV (PDF)](/files/CV.pdf) – Standard CV
+- [Download Europass CV (PDF)](/files/Europass.pdf) – Europass format CV
+- [Download Academic Transcript (PDF)](/files/Transcript.pdf) – Complete academic records with GPA conversion statement
+- [Download Portfolio (PDF)](/files/portfolio.pdf) – Visual summaries of technical work
+- [Download Course Descriptions (PDF)](/files/课程描述.pdf) – Detailed course content and learning outcomes
